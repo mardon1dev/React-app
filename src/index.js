@@ -3,11 +3,19 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navbar from './Navbar/Navbar';
+import Header from './Header/Header';
+import Procuct from './Product/Product';
+import AllProducts from './Allproducts/Allproducts';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <Navbar/>
+    <Header/>
+    <Procuct/>
+    <AllProducts/>
   </React.StrictMode>
 );
 

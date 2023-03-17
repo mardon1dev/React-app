@@ -1,0 +1,72 @@
+@mixin font {
+    font: {
+        style: normal;
+        weight: 700;
+        size: 23px;
+    }
+    margin-bottom: 25px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+}
+
+.hero{
+    background-color: brown;
+    padding: 100px 0;
+    &-main{
+        color: white;
+    }
+    &-text{
+        button{
+            background: transparent;
+            padding: 8px 32px;
+            color: white;
+            transition: .3s ease-in-out;
+            &:hover{
+                background: white;
+                color: red;
+                transition: .3s ease-in-out;
+            }
+        }
+        span{
+            @include font;
+        }
+        h1{
+            @include font;
+
+            font-size: 70px;
+            text-transform: capitalize
+        }
+        p{
+            @include font;
+            font-size: 16px;
+            opacity: .7;
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+    }
+}
+@media screen and (max-width:992px) {
+    .hero-text h1{
+        font-size: 40px;
+        }
+}
+@media screen and (max-width:768px) {
+    .hero{
+        background: {
+            image: url(./../Header/hero2.png);
+            position: 40% 50%;
+            repeat: no-repeat;
+            size: cover;
+        }
+        &-text{
+            padding: 0 10px;
+            text-align: center;
+            p{
+                opacity: 1;
+            }
+        }
+        &-img{
+            display: none;
+        }
+    }
+}

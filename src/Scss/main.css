@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.hero {
+  background-color: brown;
+  padding: 100px 0;
+}
+.hero-main {
+  color: white;
+}
+.hero-text button {
+  background: transparent;
+  padding: 8px 32px;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+.hero-text button:hover {
+  background: white;
+  color: red;
+  transition: 0.3s ease-in-out;
+}
+.hero-text span {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  margin-bottom: 25px;
+  line-height: 130%;
+  letter-spacing: 0.04em;
+}
+.hero-text h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  margin-bottom: 25px;
+  line-height: 130%;
+  letter-spacing: 0.04em;
+  font-size: 70px;
+  text-transform: capitalize;
+}
+.hero-text p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  margin-bottom: 25px;
+  line-height: 130%;
+  letter-spacing: 0.04em;
+  font-size: 16px;
+  opacity: 0.7;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 992px) {
+  .hero-text h1 {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .hero {
+    background-image: url(./../Header/hero2.png);
+    background-position: 40% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .hero-text {
+    padding: 0 10px;
+    text-align: center;
+  }
+  .hero-text p {
+    opacity: 1;
+  }
+  .hero-img {
+    display: none;
+  }
+}
+#login {
+  background: transparent;
+  padding: 8px 32px;
+  border: 1px solid white;
+  border-radius: 50px;
+  color: white;
+  transition: 0.3s ease-in-out;
+}
+#login:hover {
+  background: white;
+  color: red;
+  transition: 0.3s ease-in-out;
+}
+
+.product-back {
+  background: #F8F8F8;
+}
+
+.product-h1 {
+  color: brown;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  margin-bottom: 25px;
+  line-height: 130%;
+  letter-spacing: 0.04em;
+  font-size: 48px;
+}
+
+.card {
+  border: 0;
+  border-radius: 10px;
+}
+
+.product .swiper-button-next, .product .swiper-button-prev {
+  top: -100px;
+  position: -webkit-sticky;
+  position: sticky;
+  border: 1px solid red;
+  border-radius: 5px;
+  color: red;
+  left: 0;
+}
+.product .swiper-button-next::after, .product .swiper-button-prev::after {
+  padding: 10px 15px;
+  font-size: 30px;
+}
+
+.product .swiper-button-prev {
+  right: 50px;
+}
+
+@media screen and (max-width: 568px) {
+  .product-h1 {
+    font-size: 24px;
+  }
+}
+.menu-item div {
+  border: 1px solid red;
+  border-radius: 30px;
+  padding: 5px 20px;
+}
+
+.menu-item a {
+  text-decoration: none;
+  color: black;
+}
+
+.active {
+  background: #BB2339;
+}
+
+.active a {
+  color: white;
+}
+
+.card-body span {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #BB2339;
+}
+
+.all .card:hover {
+  background-color: #BB2339;
+  transform: scale(1.01);
+  transition: 0.3s ease-in-out;
+}/*# sourceMappingURL=main.css.map */
