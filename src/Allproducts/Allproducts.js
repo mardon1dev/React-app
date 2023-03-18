@@ -104,7 +104,7 @@ const allPost = function(){
                             <div className="card text-center w-100 border border-1">
                                 <img src={Image7} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
-                                    <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
+                                    <h5 className="card-title">Somsa</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
                                 </div>
                             </div> 
