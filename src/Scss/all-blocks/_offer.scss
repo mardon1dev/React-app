@@ -1,0 +1,41 @@
+.offer-back{
+    background: #F4F4F4;
+}
+.offer-h1{
+    color: brown;
+    @include font;
+    font-size: 48px;
+}
+.card{
+    border: 0;
+    border-radius: 10px;
+}
+.offer .swiper-button-next, .offer .swiper-button-prev{
+    top: -100px;
+    position: sticky;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: red;
+    left: 0;
+    &::after{
+        padding: 10px 15px;
+        font-size: 30px;
+    }
+}
+
+.offer .swiper-button-next::after, .offer .swiper-button-prev::after {
+    padding: 10px 15px;
+    font-size: 30px;
+  }
+  
+  .offer .swiper-button-prev {
+    right: 50px;
+  }
+  .offer input{
+    outline: none;
+  }
+@media screen and (max-width:568px) {
+    .offer-h1{
+        font-size: 24px;
+    }
+}

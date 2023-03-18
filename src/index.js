@@ -7,6 +7,7 @@ import Navbar from './Navbar/Navbar';
 import Header from './Header/Header';
 import Procuct from './Product/Product';
 import AllProducts from './Allproducts/Allproducts';
+import Offer from './Offer/Offer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,6 +17,7 @@ root.render(
     <Header/>
     <Procuct/>
     <AllProducts/>
+    <Offer/>
   </React.StrictMode>
 );
 

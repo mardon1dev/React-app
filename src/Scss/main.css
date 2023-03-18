@@ -174,4 +174,57 @@ body {
   background-color: #BB2339;
   transform: scale(1.01);
   transition: 0.3s ease-in-out;
+}
+
+.offer-back {
+  background: #F4F4F4;
+}
+
+.offer-h1 {
+  color: brown;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  margin-bottom: 25px;
+  line-height: 130%;
+  letter-spacing: 0.04em;
+  font-size: 48px;
+}
+
+.card {
+  border: 0;
+  border-radius: 10px;
+}
+
+.offer .swiper-button-next, .offer .swiper-button-prev {
+  top: -100px;
+  position: -webkit-sticky;
+  position: sticky;
+  border: 1px solid red;
+  border-radius: 5px;
+  color: red;
+  left: 0;
+}
+.offer .swiper-button-next::after, .offer .swiper-button-prev::after {
+  padding: 10px 15px;
+  font-size: 30px;
+}
+
+.offer .swiper-button-next::after, .offer .swiper-button-prev::after {
+  padding: 10px 15px;
+  font-size: 30px;
+}
+
+.offer .swiper-button-prev {
+  right: 50px;
+}
+
+.offer input {
+  outline: none;
+}
+
+@media screen and (max-width: 568px) {
+  .offer-h1 {
+    font-size: 24px;
+  }
 }/*# sourceMappingURL=main.css.map */
