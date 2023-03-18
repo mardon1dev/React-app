@@ -48,7 +48,7 @@ const allPost = function(){
                     <div className="row g-4 all">
                         <div className='col-lg-3  col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image1} className="card-img-top" alt="..."/>
+                                <img src={Image1} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -57,7 +57,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image2} className="card-img-top" alt="..."/>
+                                <img src={Image2} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -66,7 +66,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image3} className="card-img-top" alt="..."/>
+                                <img src={Image3} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -75,7 +75,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image4} className="card-img-top" alt="..."/>
+                                <img src={Image4} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -84,7 +84,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image5} className="card-img-top" alt="..."/>
+                                <img src={Image5} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -93,7 +93,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image6} className="card-img-top" alt="..."/>
+                                <img src={Image6} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -102,7 +102,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image7} className="card-img-top" alt="..."/>
+                                <img src={Image7} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -111,7 +111,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image8} className="card-img-top" alt="..."/>
+                                <img src={Image8} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -120,7 +120,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image9} className="card-img-top" alt="..."/>
+                                <img src={Image9} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -129,7 +129,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image10} className="card-img-top" alt="..."/>
+                                <img src={Image10} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -138,7 +138,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image11} className="card-img-top" alt="..."/>
+                                <img src={Image11} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
@@ -147,7 +147,7 @@ const allPost = function(){
                         </div>
                         <div className='col-lg-3 col-md-4 col-sm-6'>
                             <div className="card text-center w-100 border border-1">
-                                <img src={Image12} className="card-img-top" alt="..."/>
+                                <img src={Image12} className="card-img-top" alt="kebab"/>
                                 <div className="card-body">
                                     <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
                                     <span className="text-danger d-block pt-3">$12.00</span>
