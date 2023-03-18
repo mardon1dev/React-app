@@ -22,25 +22,25 @@ const allPost = function(){
                             <a href="#allproduct" className="allitem">All</a>
                         </div>
                         <div className="">
-                            <a href="" className="shaurma">Shaurma</a>
+                            <a href="#" className="shaurma">Shaurma</a>
                         </div>
                         <div className="">
-                            <a href="" className="turk-kebab">Turk kebab</a>
+                            <a href="#" className="turk-kebab">Turk kebab</a>
                         </div>
                         <div className="">
-                            <a href="" className="hamburger-kebab">Hamburger Kebab</a>
+                            <a href="#" className="hamburger-kebab">Hamburger Kebab</a>
                         </div>
                         <div className="">
-                            <a href="" className="doner-kebab">Doner kebab</a>
+                            <a href="#" className="doner-kebab">Doner kebab</a>
                         </div>
                         <div className="">
-                            <a href="" className="shish-kebab">Shish kebab</a>
+                            <a href="#" className="shish-kebab">Shish kebab</a>
                         </div>
                         <div className="">
-                            <a href="" className="french-pizza">French Fries Pizza</a>
+                            <a href="#" className="french-pizza">French Fries Pizza</a>
                         </div>
                         <div className="">
-                            <a href="" className="dessert-all">Desserts</a>
+                            <a href="#" className="dessert-all">Desserts</a>
                         </div>
                     </div>
                 </div>

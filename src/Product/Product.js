@@ -31,40 +31,40 @@ const Men = function(){
                     >
                       <SwiperSlide className=''>
                         <div className="card text-center w-100 ">
-                          <img src={Image1} className="card-img-top" alt="image"/>
+                          <img src={Image1} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image2} className="card-img-top" alt="image"/>
+                          <img src={Image2} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image3} className="card-img-top" alt="image"/>
+                          <img src={Image3} className="card-img-top" alt="productimage"/>
                             <div className="card-body">
                               <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                              <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                              <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                               <span className="text-danger d-block pt-3">$12.00</span>
                             </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image4} className="card-img-top" alt="image"/>
+                          <img src={Image4} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
@@ -78,40 +78,40 @@ const Men = function(){
                     >
                       <SwiperSlide className=''>
                         <div className="card text-center w-100 ">
-                          <img src={Image1} className="card-img-top" alt="image"/>
+                          <img src={Image1} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image2} className="card-img-top" alt="image"/>
+                          <img src={Image2} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image3} className="card-img-top" alt="image"/>
+                          <img src={Image3} className="card-img-top" alt="productimage"/>
                             <div className="card-body">
                               <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                              <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                              <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                               <span className="text-danger d-block pt-3">$12.00</span>
                             </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image4} className="card-img-top" alt="image"/>
+                          <img src={Image4} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
@@ -125,40 +125,40 @@ const Men = function(){
                     >
                       <SwiperSlide className=''>
                         <div className="card text-center w-100 ">
-                          <img src={Image1} className="card-img-top" alt="image"/>
+                          <img src={Image1} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image2} className="card-img-top" alt="image"/>
+                          <img src={Image2} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image3} className="card-img-top" alt="image"/>
+                          <img src={Image3} className="card-img-top" alt="productimage"/>
                             <div className="card-body">
                               <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                              <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                              <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                               <span className="text-danger d-block pt-3">$12.00</span>
                             </div>
                         </div>
                       </SwiperSlide>
                       <SwiperSlide className=''>
                         <div className="card text-center w-100">
-                          <img src={Image4} className="card-img-top" alt="image"/>
+                          <img src={Image4} className="card-img-top" alt="productimage"/>
                           <div className="card-body">
                             <h5 className="card-title">Barbecue Shish kebab Shashlik Skewer</h5>
-                            <img src={Mark} className="card-img-top w-25 pt-3" alt="image"/>
+                            <img src={Mark} className="card-img-top w-25 pt-3" alt="productimage"/>
                             <span className="text-danger d-block pt-3">$12.00</span>
                           </div>
                         </div>
