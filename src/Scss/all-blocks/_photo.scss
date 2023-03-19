@@ -1,0 +1,66 @@
+.photos{
+    background: #F4F4F4;
+}
+.photo{
+    &__main{
+        &--span{
+            font-style: normal;
+            font-weight: 700;
+            font-size: 23px;
+            line-height: 130%;
+            letter-spacing: 0.04em;
+            color: #242424;
+        }
+        &--h3{
+            font-style: normal;
+            font-weight: 500;
+            font-size: 38px;
+            line-height: 130%;
+            letter-spacing: 0.03em;
+            color: #242424;
+        }
+        &--p{
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 175%;
+            letter-spacing: 0.04em;
+            color: #AAAAAA;
+        }
+        &--button{
+            color: #242424;
+        text-decoration: none;
+        border: 2px solid red;
+        font-weight: 700;
+        padding: 5px 20px;
+        border-radius: 50px;
+        transition: .3s ease-in-out;
+
+        &:hover{
+            border: 2px solid #242424;
+            color: red;
+            transition: .3s ease-in-out;
+            transform: scale(1.02);
+        }
+        }
+    }
+}
+.hover{
+    width: 100%;
+    height: 100%;
+    background-color: #242424;
+    background: {
+        image: url(./../Photo/photo1.png);
+        position: center;
+        repeat: no-repeat;
+        size: cover;
+    }
+    :hover{
+        background: {
+            image: url(./../Photo/Hover.png);
+            position: center;
+            repeat: no-repeat;
+            size: cover;
+        }
+    }
+}
