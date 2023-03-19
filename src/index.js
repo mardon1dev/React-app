@@ -8,6 +8,10 @@ import Header from './Header/Header';
 import Procuct from './Product/Product';
 import AllProducts from './Allproducts/Allproducts';
 import Offer from './Offer/Offer';
+import Updates from './Updates/Updates';
+import Videoof from './Video/Video';
+import Photo from './Photo/Photo';
+import Footer from './Footer/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,6 +22,10 @@ root.render(
     <Procuct/>
     <AllProducts/>
     <Offer/>
+    <Updates/>
+    <Videoof/>
+    <Photo/>
+    <Footer/>
   </React.StrictMode>
 );
 
