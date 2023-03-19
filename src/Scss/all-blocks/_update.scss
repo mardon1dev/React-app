@@ -1,0 +1,56 @@
+.updates{
+    &-h6{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 130%;
+        letter-spacing: 0.04em;
+        color: #242424;
+    }
+    &-h3{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 130%;
+        letter-spacing: 0.03em;
+        text-transform: capitalize;
+        color: #BB2339;
+    }
+    &-link{
+        color: #BB2339;
+        text-decoration: none;
+        font-weight: 700;
+    }
+    &-span{
+        color: #242424;
+        opacity: .7;
+    }
+    & .card-text{
+        opacity: .7;
+    }
+    & .card-title{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    &-view{
+        color: #242424;
+        text-decoration: none;
+        border: 2px solid red;
+        font-weight: 700;
+        padding: 5px 20px;
+        border-radius: 50px;
+        transition: .3s ease-in-out;
+
+        &:hover{
+            border: 2px solid #242424;
+            color: red;
+            transition: .3s ease-in-out;
+            transform: scale(1.02);
+        }
+    }
+    & .card:hover{
+        transform: scale(1.02);
+    }
+}
